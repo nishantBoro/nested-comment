@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployed Site
+Check out the hosted application on: `https://rococo-pavlova-41945d.netlify.app/`
+
 ## Available Scripts
 
 In the project directory, you can run:
